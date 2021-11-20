@@ -1,0 +1,122 @@
+ErrorDocument 403 /page16895152.html
+ErrorDocument 404 /page16895152.html
+
+DirectoryIndex page16860676.html
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} /robots.txt
+RewriteCond "%{DOCUMENT_ROOT}/robots_%{HTTP_HOST}.txt" -f
+RewriteRule ^(.*)$ robots_%{HTTP_HOST}.txt [NC,L]
+RewriteRule ^male$ page16888108.html [NC]
+RewriteRule ^male/$ page16888108.html [NC]
+
+RewriteRule ^popmy$ page20622581.html [NC]
+RewriteRule ^popmy/$ page20622581.html [NC]
+
+RewriteRule ^popfemy$ page20680216.html [NC]
+RewriteRule ^popfemy/$ page20680216.html [NC]
+
+RewriteRule ^female$ page16888171.html [NC]
+RewriteRule ^female/$ page16888171.html [NC]
+
+RewriteRule ^popteen$ page20680225.html [NC]
+RewriteRule ^popteen/$ page20680225.html [NC]
+
+RewriteRule ^podrosok$ page16942787.html [NC]
+RewriteRule ^podrosok/$ page16942787.html [NC]
+
+RewriteRule ^discounts$ page16888258.html [NC]
+RewriteRule ^discounts/$ page16888258.html [NC]
+
+RewriteRule ^company$ page16888343.html [NC]
+RewriteRule ^company/$ page16888343.html [NC]
+
+RewriteRule ^popular$ page16888197.html [NC]
+RewriteRule ^popular/$ page16888197.html [NC]
+
+RewriteRule ^work$ page16889273.html [NC]
+RewriteRule ^work/$ page16889273.html [NC]
+
+RewriteRule ^delivery$ page16890992.html [NC]
+RewriteRule ^delivery/$ page16890992.html [NC]
+
+RewriteRule ^contacts$ page16891472.html [NC]
+RewriteRule ^contacts/$ page16891472.html [NC]
+
+RewriteRule ^catalog$ page16893368.html [NC]
+RewriteRule ^catalog/$ page16893368.html [NC]
+
+RewriteRule ^blog$ page16893614.html [NC]
+RewriteRule ^blog/$ page16893614.html [NC]
+
+RewriteRule ^policy$ page16894813.html [NC]
+RewriteRule ^policy/$ page16894813.html [NC]
+
+RewriteRule ^thank$ page20089867.html [NC]
+RewriteRule ^thank/$ page20089867.html [NC]
+
+RewriteRule ^mistake$ page16895152.html [NC]
+RewriteRule ^mistake/$ page16895152.html [NC]
+
+RewriteRule ^law$ page4719416.html [NC]
+RewriteRule ^law/$ page4719416.html [NC]
+
+RewriteRule ^kronburg$ page5162981.html [NC]
+RewriteRule ^kronburg/$ page5162981.html [NC]
+
+RewriteRule ^thanks$ page6653168.html [NC]
+RewriteRule ^thanks/$ page6653168.html [NC]
+
+RewriteRule ^law2$ page5793129.html [NC]
+RewriteRule ^law2/$ page5793129.html [NC]
+
+RewriteRule ^test$ page20412651.html [NC]
+RewriteRule ^test/$ page20412651.html [NC]
+
+RewriteRule ^4740_10$ page20494842.html [NC]
+RewriteRule ^4740_10/$ page20494842.html [NC]
+
+RewriteRule ^8148-01-56_48$ page20495294.html [NC]
+RewriteRule ^8148-01-56_48/$ page20495294.html [NC]
+
+RewriteRule ^8115-01-56_48$ page20495425.html [NC]
+RewriteRule ^8115-01-56_48/$ page20495425.html [NC]
+
+RewriteRule ^165-3-_78$ page20495493.html [NC]
+RewriteRule ^165-3-_78/$ page20495493.html [NC]
+
+RewriteRule ^3913-25473_17$ page20495599.html [NC]
+RewriteRule ^3913-25473_17/$ page20495599.html [NC]
+
+RewriteRule ^3913-25473__17$ page20495692.html [NC]
+RewriteRule ^3913-25473__17/$ page20495692.html [NC]
+
+RewriteRule ^39743-066073_17$ page20495741.html [NC]
+RewriteRule ^39743-066073_17/$ page20495741.html [NC]
+
+RewriteRule ^8144-07-56_48$ page20495826.html [NC]
+RewriteRule ^8144-07-56_48/$ page20495826.html [NC]
+
+RewriteRule ^1247-8-3_78$ page20495902.html [NC]
+RewriteRule ^1247-8-3_78/$ page20495902.html [NC]
+
+RewriteRule ^1172-3_78$ page20495960.html [NC]
+RewriteRule ^1172-3_78/$ page20495960.html [NC]
+
+RewriteRule ^myg2$ page20857841.html [NC]
+RewriteRule ^myg2/$ page20857841.html [NC]
+
+RewriteRule ^popfm$ page20885985.html [NC]
+RewriteRule ^popfm/$ page20885985.html [NC]
+
+RewriteRule ^my3$ page20993196.html [NC]
+RewriteRule ^my3/$ page20993196.html [NC]
+
+RewriteRule ^popfm2$ page21002120.html [NC]
+RewriteRule ^popfm2/$ page21002120.html [NC]
+
+RewriteRule ^members/ ma_start.html [NC]
+
+RewriteRule ^favicon.ico$ https://static.tildacdn.com/tild6339-3632-4732-a235-613530386562/Frame-2-_4_.ico [R=302,L]
+
