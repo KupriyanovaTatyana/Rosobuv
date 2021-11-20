@@ -1,5 +1,2 @@
-Published on Tilda.cc
-- - -
-Upload the project to your website:
-1. Copy the contents of this folder to your server by FTP
-2. Rename file htaccess to .htaccess
+Рособувь - магазин обуви.
+Оптовая продажа обуви. Компания Рособувь предлагает обувь оптом в Москве от лучших производителей России и Белоруссии - отличные ценовые предложения при отличном качестве продукции.
